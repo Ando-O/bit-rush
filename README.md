@@ -1,2 +1,5 @@
-# bit-rush
-kinda like pokemon go for crypto. this is for a proof of concept.
+# Bit-Rush
+
+Think of Bit-Rush as an idea similiar to <br>
+Pokemon Go and Geocache <br>
+except, it's the crypto version.
